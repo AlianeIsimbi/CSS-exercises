@@ -1,0 +1,185 @@
+
+body{
+    margin-left: 250px;
+    margin-right: 180px;
+}
+#small-box1{
+    border: 230px x 100px;
+    width: 280px;
+    height:fit-content;
+    border-radius: 10%;
+    background-color: #263138;
+    color: white;
+    display: inline-block;
+    align-content: center;
+    text-align: center;
+}
+#small-box2{
+    background-color:#445964;
+    border: 230px x 100px;
+    width: 280px;
+    height:fit-content;
+    border-radius: 10%;
+    color: white;
+    display: inline-block;
+    align-content: center;
+    text-align: center;
+}
+#small-box3{
+    background-color: #263138;
+    border: 230px x 100px;
+    width: 280px;
+    height:fit-content;
+    border-radius: 10%;
+    color: white;
+    display: inline-block;
+    align-content: center;
+    text-align: center;
+}
+#first-part{
+    display:inline-block;
+}
+h3{
+    position:absolute;
+    display:inline-block;
+    left: 300px;
+    color: #445964;
+    bottom: 92%;
+}
+#sobre{
+    position: absolute;
+    left: 950px;
+    color:  #445964;
+}
+#portifolio{
+    position: absolute;
+    left: 1000px;
+    color:  #445964;
+
+}
+#home{
+    position: absolute;
+    left:900px;
+    color:  #445964;
+}
+#servicos{
+    position: absolute;
+    left: 1100px;
+    color:  #445964;
+}
+#resumo{
+    position:absolute;
+    left: 1200px;
+    color:  #445964;
+}
+#contanto{
+    position: absolute;
+    left: 1300px;
+    color:  #445964;
+}
+#right-side{
+    position:absolute;
+    left: 900px;
+    color:  #445964;
+    top: 140px;
+}
+#left-side{
+    position:absolute;
+    top: 210px;
+}
+#credentials{
+    margin-top: 50%;
+    margin-left: 20%;
+}
+#just-words{
+    color:  #445964;
+}
+h1{
+    color:  #445964;
+    font-weight: bolder;
+    size:900px;
+}
+#btn{
+    color:white;
+    background-color:#263138 ;
+    margin-top: 20%;
+    border-radius: 5.5%;
+    size: 20px;
+    Width:310px;
+    Height:65px;
+    Top:700px;
+    Left:251px;
+    border-radius:20px;
+}
+#personal{
+    color: #445964;
+    align-content: center;
+    text-align: center;
+    width: 500px;
+
+}
+#dark{
+    color: #000000;
+
+}
+#skills{
+    color:#445964;
+    align-content: center;
+    text-align:center;
+    margin-right: 420px;
+}
+#representations{
+    color:#445964;
+    align-content: center;
+    text-align:center;
+    margin-right: 460px;
+}
+#smaller-dark{
+    color:#000000;
+}
+#unique{
+    color:#445964;
+    text-align: left;
+    display:inline-block;
+}
+h2{
+    color: #445964;
+    margin-right:200px;
+    left: 500px;
+}
+#last-part{
+    color:#445964;
+    margin-right:100px;
+    text-align: center;
+    align-content: center;
+}
+h5{
+    color:#000000;
+    font-size: larger;
+    font-weight: bolder;
+}
+#python{
+    margin-right: 10%;
+}
+#HTML{
+    margin-right: 10%;
+}
+#React{
+    margin-right: 10%;
+}
+#C{
+    margin-right: 10%;
+}
+#JavaScript{
+    margin-right: 10%;
+}
+#CSS{
+    margin-right: 10%;
+}
+#MySQL{
+    margin-right: 10%;
+}
+#Postgres{
+    margin-right: 10%
+}
+
