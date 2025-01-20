@@ -1,0 +1,72 @@
+.boarder{
+    background-color:#23252C;
+    margin-left: 32%;
+    margin-right: 32%;
+    margin-top: 10px;
+    padding-top: 0.1px;
+    padding-bottom: 10px;
+}
+.sub-boarder{
+    Background-color:#1A1B21;
+    margin-left: 120px;
+    margin-top: 100px;
+    width: 317px;
+    align-items: center;
+    align-content: center;
+    
+}
+p{
+    width: 247px;
+    height: 201px;
+    top: 554px;
+    left: 151px;
+    gap: 0px;
+    opacity: 0px;
+}
+.email{
+    background-color: white;
+    color: black;
+    width: 115px;
+    height: 34px;
+    border-radius: 10px;
+    
+}
+.LinkedIn{
+    background-color: rgb(103, 147, 250);
+    color: white;
+    width: 115px;
+    height: 34px;
+    border-radius: 10px;
+    margin-top: 5px;
+}
+h3{
+    color: #F3BF99;
+    font-weight: lighter;
+}
+.Credentials{
+    margin-left: 90px;
+}
+.content{
+    margin-left: 30px;
+}
+#about{
+    margin-top: 50px;
+    color: white;
+}
+#interests{
+    position: relative;
+    bottom: 70px;
+    color: white;
+}
+#foot{
+    background-color: rgb(7, 7, 7);
+    padding-top: 30px;
+    padding-bottom: 30px;
+    border-radius: 10px;
+    align-content: center;
+    align-items: center;
+    color:white;
+    font-size:smaller;
+    text-align: center;
+    color: white;
+}
