@@ -1,0 +1,181 @@
+body{
+    margin-left: 250px;
+    margin-right: 180px;
+}
+#first-part{
+    background-color: #101524;
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+#Home{
+    position: absolute;
+    left: 900px;
+    top: 90px;
+    margin-right: 10%;
+    color:white;
+}
+#About{
+    position:absolute;
+    left: 950px;
+    top:90px;
+    margin-right: 10%;
+    color: white;
+}
+#Guru{
+    position:absolute;
+    left: 1000px;
+    top:90px;
+    margin-right: 10%;
+    color: white;
+}
+#Siswa{
+    position:absolute;
+    left: 1050px;
+    top:90px;
+    margin-right: 10%;
+    color: white;
+}
+#Pendaftaran{
+    position:absolute;
+    left: 1100px;
+    top:90px;
+    margin-right: 10%;
+    color: white;
+}
+#Iainya{
+    position:absolute;
+    left: 1200px;
+    top:90px;
+    margin-right: 10%;
+    color: white;
+}
+#Kontak{
+    position:absolute;
+    left: 1250px;
+    top:10px;
+    margin-right: 10%;
+    color: white;
+}
+#big-picture{
+    position:relative;
+    text-align: center;
+    color: white;
+    background-color: black;
+}
+.name{
+    position:absolute;
+    top: 100px;
+    left: 500px;
+    font-size:xx-large;
+    font-weight:bolder;
+}
+.words{
+    position:absolute;
+    top: 150px;
+    left: 350px;
+}
+#visual{
+    margin-left: 48px;
+}
+#campus{
+    opacity: 0.5;
+}
+#sections{
+    text-align: center;
+}
+#mini-1{
+    float:left;
+    margin-right: 0%;
+    width: 280px;
+    position:absolute;
+    left:300px;
+
+}
+#mini-2{
+    display: inline-block;
+    margin-right: 0%;
+    width: 250px;
+    position: absolute;
+    left: 650px;
+}
+#mini-3{
+    float:right;
+    display:inline;
+    width:200px;
+    position:absolute;
+    left: 1000px;
+
+}
+h1{
+    text-align: left;
+    color: #0C101A;
+}
+h2{
+    color:#0C101A;
+    text-align: left;
+
+}
+p{
+    color:#767272;
+}
+#Read-more{
+    color:rgb(104, 104, 241);
+    font-weight: bold;
+}
+h5{
+    color:#635d5d;
+}
+#See-all{
+    color: rgb(73, 113, 243);
+    position: absolute;
+    left: 1200px;
+    top:440px;
+}
+
+#btn{
+    color:white;
+    background-color: rgb(77, 77, 244);
+}
+#edited{
+    display:flex;
+    gap: 2px;
+}
+#sections{
+    display:flex;
+}
+#middle-part{
+    display:flex;
+    gap: 30px;
+}
+#side-line{
+    width: 450px;
+}
+#new-edit{
+    display:flex;
+    gap: 2px;
+    flex-grow: 3;
+}
+#new-item{
+    width: 350px;
+}
+#part-1{
+    display: flex;
+    gap: 2%;
+}
+#part-2{
+    display: flex;
+    gap: 2%;
+}
+#circles{
+    border-radius: 12px;
+    border-color:aquamarine;
+    color:#635d5d;
+}
+#final{
+    display: flex;
+    gap: 25%;
+}
+#last-line{
+    color:#0C101A;
+    font-weight: lighter;
+}
